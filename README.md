@@ -68,7 +68,7 @@ plt.plot(xpoints, ypoints)
 plt.show()
 ```
 ## Files in this Repository
-* SignWave.py_ <br>
+* _SignWave.py_ <br>
 This script generates a sine wave with the following parameters:<br>
     **fs:** The sampling frequency, which determines how many samples per second are taken.<br>
     **t:** The time vector, which defines the duration of the signal (from 0 to 1 second with intervals of 1/fs).<br>
@@ -77,7 +77,7 @@ This script generates a sine wave with the following parameters:<br>
 **Output:**
   ![image](https://github.com/user-attachments/assets/f9be8eba-1984-4499-891f-cd1c820b1b38)
 
-* aduioInput.py_ <br>
+* _aduioInput.py_ <br>
   The reference aduio input file is collected from the link: [_Link_](https://xeno-canto.org/)<br>
   
   This script perform below operations
