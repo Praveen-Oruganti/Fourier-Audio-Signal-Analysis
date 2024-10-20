@@ -77,6 +77,8 @@ This script generates a sine wave with the following parameters:<br>
 **Output:**
   ![image](https://github.com/user-attachments/assets/f9be8eba-1984-4499-891f-cd1c820b1b38)
 
+  This graph represents the frequency spectrum of a sample sine wave. The x-axis shows the frequency in Hertz (Hz), while the y-axis shows the amplitude of each frequency component. The plot features a prominent spike at a low frequency, indicating the dominant frequency of the sine wave. Since this is a pure sine wave, the spectrum shows only one significant frequency component, with no other frequencies contributing. The rest of the plot is flat, suggesting that no higher frequencies are present in the signal.
+
 * _aduioInput.py_ <br>
   The reference aduio input file is collected from the link: [_Link_](https://xeno-canto.org/)<br>
   
