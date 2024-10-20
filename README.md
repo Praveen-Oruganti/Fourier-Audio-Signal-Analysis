@@ -26,8 +26,8 @@ pip install -r requirements.txt
 ```
 ### How to Run the Program
 ```
-python main.py
-python aduioMain.py
+python SignWave.py
+python aduioInput.py
 ```
 ## Functionality
 **1. Fourier Transform (FFT)**
